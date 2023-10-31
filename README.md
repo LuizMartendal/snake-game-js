@@ -1,4 +1,6 @@
 # Projeto-1-Snake-Game-JS-
 Snake game feito em javascript e html 
 
-https://rique25.github.io/Snake-Game-JS/
+## Estou aos poucos melhorando o jogo...
+
+link para acesso: https://luizmartendal.github.io/Snake-Game-JS/
